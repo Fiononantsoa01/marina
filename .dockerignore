@@ -1,7 +1,11 @@
 .git
+.gitignore
 .idea
-*.cmi
+.github
 *.cmo
+*.cmi
+*.cmx
+*.o
 .depend
+test
 doc
-*.log
